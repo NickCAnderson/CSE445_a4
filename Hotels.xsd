@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<xs:schema targetNamespace="http://tempuri.org/XMLSchema.xsd"
+<xs:schema
     elementFormDefault="qualified"
     xmlns="http://tempuri.org/XMLSchema.xsd"
     xmlns:mstns="http://tempuri.org/XMLSchema.xsd"
@@ -33,3 +33,4 @@
 		</xs:complexType>
 	</xs:element>
 </xs:schema>
+
