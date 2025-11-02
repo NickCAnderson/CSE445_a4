@@ -33,6 +33,7 @@
       <City>Phoenix</City>
       <State>AZ</State>
       <Zip>85008</Zip>
+	</Address>
   </Hotel>
 	<Hotel Rating="5.0">
 		<Name>The compound on 13th St.</Name>
@@ -108,8 +109,8 @@
 			<City>Denver</City>
 			<State>CO</State>
 			<Zip>80203</Zip>
-		</Address>
 	</Hotel>
 
 </Hotel>
+
 
